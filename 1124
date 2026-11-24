@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="zh-Hant"><head><meta charset="utf-8">
+<title>2026-11-24 每日英文新聞</title>
+<style>
+/* ===== 主色（請勿更改，詳見 英文新聞視覺化規範.md） =====
+   主色 #8F5A3C｜深咖啡 #5E3B27｜淺底 #F3E8E0 / #FAF6F2 / #FBF5EE
+   重點框色條 #C49A6C｜螢光筆 #FFE680 */
+@page { size: A4; margin: 11mm 14mm 11mm 14mm; }
+* { box-sizing: border-box; }
+body { font-family: "WenQuanYi Zen Hei", sans-serif; font-size: 9.6pt; line-height: 1.5; color: #222; margin: 0; }
+header { border-bottom: 3px solid #8F5A3C; padding-bottom: 6px; margin-bottom: 10px; display:flex; justify-content:space-between; align-items:flex-end; }
+header .brand { font-size: 9pt; color:#8F5A3C; letter-spacing: .1em; }
+header h1 { font-size: 19pt; margin: 2px 0 0; }
+header .date { font-size: 11pt; font-weight: bold; color:#555; }
+h2 { font-size: 13pt; color: #fff; background: #8F5A3C; padding: 3px 10px; margin: 10px 0 6px; border-radius: 3px; }
+h3 { font-size: 11pt; margin: 0 0 4px; color:#8F5A3C; }
+.news-title { font-size: 15pt; font-weight: bold; margin: 2px 0 2px; }
+.tag { display:inline-block; background:#F3E8E0; color:#8F5A3C; font-size:9pt; padding:1px 7px; border-radius: 10px; margin-right:6px; font-weight:bold; }
+.src { font-size: 8.5pt; color:#666; word-break: break-all; }
+.note { font-size: 8.5pt; color:#777; }
+ol.points { margin: 4px 0 0 0; padding-left: 20px; }
+ol.points li { margin-bottom: 5px; }
+.box { border: 1px solid #ddd; border-left: 4px solid #C49A6C; background:#FBF5EE; padding: 7px 10px; margin-top: 8px; }
+.box ul { margin: 2px 0 0; padding-left: 18px; }
+.vocab { border: 1px solid #E2D3C7; border-left: 6px solid #8F5A3C; border-radius: 4px; padding: 5px 10px; margin-bottom: 5px; page-break-inside: avoid; }
+.vhead { display:flex; align-items: baseline; gap: 10px; border-bottom: 1px dashed #ccc; padding-bottom: 3px; margin-bottom: 4px; }
+.vnum { background:#8F5A3C; color:#fff; border-radius: 50%; width: 20px; height: 20px; text-align:center; line-height:20px; font-size:9pt; flex: none; }
+.vword { font-size: 14pt; font-weight: bold; }
+.vread { font-size: 10pt; color:#8F5A3C; }
+.vpos { font-size: 8.5pt; color:#fff; background:#777; padding: 0 6px; border-radius: 3px; }
+.vmean { font-weight: bold; }
+.ex { background:#FAF6F2; border-left: 3px solid #5E3B27; padding: 4px 8px; margin: 4px 0; }
+.ex .en { font-size: 10.5pt; }
+.ex .en b { font-weight: bold; background: linear-gradient(transparent 50%, #FFE680 50%); padding: 0 1px; }
+.ex .cite { font-size: 8pt; color:#666; }
+.lbl { font-size: 8.5pt; font-weight:bold; color:#5E3B27; margin-right: 4px; }
+.conn { font-size: 9.5pt; }
+.conn b { color:#8F5A3C; }
+.grammar { border: 2px solid #5E3B27; border-radius: 6px; padding: 9px 12px; page-break-inside: avoid; }
+.gtitle { font-size: 16pt; font-weight:bold; color:#5E3B27; }
+.formula { display:inline-block; background:#5E3B27; color:#fff; padding: 2px 10px; border-radius: 3px; margin: 3px 0; font-size: 10.5pt; }
+table.g { border-collapse: collapse; width: 100%; font-size: 9.5pt; margin: 5px 0; }
+table.g td, table.g th { border: 1px solid #ccc; padding: 3px 6px; vertical-align: top; }
+table.g th { background:#F3E8E0; width: 22%; text-align:left; }
+.pagebreak { page-break-before: always; }
+footer { margin-top: 10px; font-size: 8pt; color:#888; text-align:center; }
+</style></head>
+<body>
+<header>
+  <div><div class="brand">Yang の 每日英文新聞</div><h1>今日新聞重點與學習筆記</h1></div>
+  <div class="date">2026年11月24日（週二）</div>
+</header>
+
+<h2>📰 今日新聞</h2>
+<div><span class="tag">World</span><span class="tag">BBC News 2026/11/24</span></div>
+<div class="news-title" lang="en">Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang</div>
+<div class="src">出處：https://www.bbc.com/news/articles/cq5y1k8ez407o（Bernd Debusmann Jr、Kali Hays，BBC News）</div>
+<div class="note">※ 選自 BBC 最近 24 小時新聞（可免費閱讀）：牽動全球 AI 產業、美中科技角力與美國政壇的國際大事，也是 BBC 今日最多人閱讀的新聞。</div>
+<div class="ex" style="margin-top:6px"><span class="lbl">節錄</span><span class="en" lang="en">Nvidia has <b>reinstated</b> CEO Jensen Huang just days after rejecting his offer to return to the AI chipmaker - and less than two weeks after he was forced to resign over a reported affair with a suspected Chinese spy.</span><br><span class="cite">→ Nvidia 讓執行長黃仁勳復職；就在幾天前，這家 AI 晶片公司才拒絕他回鍋的提議，而距離他因被報導與一名疑似中國間諜的女性有婚外情而被迫辭職，還不到兩週。（BBC News 導言）</span></div>
+
+<h2>① 三個重點</h2>
+<ol class="points">
+  <li><b>黃仁勳不到兩週就重返執行長。</b>他在 11/12 因婚外情報導辭職（其中一名女性被指與中國情報單位有關）；董事會上週二還明確表示不打算讓他回來，週一卻宣布復職，並稱已取得美國政府高層意見，確信他復職沒有國安風險。</li>
+  <li><b>川普自稱「說服」董事會，股市隨之大漲。</b>川普受訪時承認，Nvidia 股價下跌「大概」影響了他出面介入；BBC 查閱財產申報，發現他多次買賣 Nvidia 股票。復職當天 Nvidia 股價漲 31%、市值增加約 1 兆美元，也終止美股一週連跌。<span class="note">（推論，非投資建議）</span></li>
+  <li><b>兩黨議員一起反彈，國會將調查。</b>民主黨 Jeffries 批評此舉「無法辯護、不負責任」並承諾徹查；共和黨 Bacon、Cotton 也提出質疑。黃仁勳 12/1 將接受眾議院三個委員會閉門訪談，兩天後再到參議院銀行委員會作證。</li>
+</ol>
+<div class="box">
+  <h3>💡 對個人有什麼影響？<span class="note" style="font-weight:normal">（以下為整理者的分析，非新聞原文）</span></h3>
+  <ul>
+    <li><b>投資與市場：</b>一則人事消息就讓單一公司市值一天變動上兆美元，持有科技股、AI 或半導體相關基金的人，短期內可能面對較大波動。<span class="note">（推論，非投資建議）</span></li>
+    <li><b>科技與工作：</b>多位議員要求立法加強晶片出口管制；若通過，AI 晶片供應與價格可能受影響，在歐美科技業或供應鏈工作的人也可能感受到變化。</li>
+    <li><b>讀新聞的眼光：</b>政治人物介入企業決策、本身又持有該公司股票時，可以多留意「利益衝突」與「誰因此得利」。</li>
+  </ul>
+</div>
+
+<h2>② 今日單字（5 個）</h2>
+<div class="vocab">
+  <div class="vhead"><span class="vnum">1</span><span class="vword" lang="en">reinstate</span><span class="vread">[͵riɪnˋstet]</span><span class="vpos">動</span><span class="vmean">使復職；恢復（資格、制度）</span></div>
+  <div class="ex"><span class="lbl">例句</span><span class="en" lang="en">In July, the International Olympic Committee (IOC) provisionally <b>reinstated</b> Russia to its competitions, stating a ban introduced in 2023 after the invasion of Ukraine was "no longer applicable".</span><br><span class="cite">— BBC Sport（2026/11/13） https://www.bbc.com/sport/articles/cm4gn9lvlgy2o</span></div>
+  <div class="conn"><span class="lbl">接續</span><b lang="en">reinstate＋人＋as／to＋職位</b>：常用被動 <i>be reinstated as CEO</i>；名詞 <i>reinstatement</i>。</div>
+</div>
+<div class="vocab">
+  <div class="vhead"><span class="vnum">2</span><span class="vword" lang="en">backlash</span><span class="vread">[ˋbæk͵læʃ]</span><span class="vpos">名</span><span class="vmean">（對某事的）強烈反彈、反感</span></div>
+  <div class="ex"><span class="lbl">例句</span><span class="en" lang="en">The moves come amid a mounting <b>backlash</b> over the reinstatement of athletes from Russia and Belarus.</span><br><span class="cite">— BBC Sport（2026/11/13） https://www.bbc.com/sport/articles/cm4gn9lvlgy2o</span></div>
+  <div class="conn"><span class="lbl">接續</span><b lang="en">face／prompt＋backlash＋over</b>：<i>face</i>（遭受）、<i>prompt</i>（引發）；原因用 <i>over</i>。</div>
+</div>
+<div class="vocab">
+  <div class="vhead"><span class="vnum">3</span><span class="vword" lang="en">bipartisan</span><span class="vread">[baɪˋpɑrtəzn̩]</span><span class="vpos">形</span><span class="vmean">兩黨（共同）的、跨黨派的</span></div>
+  <div class="ex"><span class="lbl">例句</span><span class="en" lang="en">Even before the midterms, Congress saw <b>bipartisan</b> efforts to limit Trump's ability to continue the war with Iran.</span><br><span class="cite">— BBC News（2026/11/04） https://www.bbc.com/news/articles/cq1kdgnn2xdeo</span></div>
+  <div class="conn"><span class="lbl">接續</span><b lang="en">bipartisan＋support／efforts／backlash</b>：放在名詞前；<i>garner bipartisan support</i>（獲兩黨支持）。</div>
+</div>
+<div class="vocab">
+  <div class="vhead"><span class="vnum">4</span><span class="vword" lang="en">testify</span><span class="vread">[ˋtɛstə͵faɪ]</span><span class="vpos">動</span><span class="vmean">（在國會、法庭）作證</span></div>
+  <div class="ex"><span class="lbl">例句</span><span class="en" lang="en">Control of the House and Senate gives the party power to issue subpoenas - summons to <b>testify</b> or produce documents - as well as additional funding to launch investigations early next year.</span><br><span class="cite">— BBC News（2026/11/05） https://www.bbc.com/news/articles/cvglwg033027o</span></div>
+  <div class="conn"><span class="lbl">接續</span><b lang="en">testify＋before＋機關／against＋人</b>：<i>testify before Congress</i>；名詞 <i>testimony</i>（證詞）。</div>
+</div>
+<div class="vocab">
+  <div class="vhead"><span class="vnum">5</span><span class="vword" lang="en">vow</span><span class="vread">[vaʊ]</span><span class="vpos">動</span><span class="vmean">發誓、誓言要（做某事）</span></div>
+  <div class="ex"><span class="lbl">例句</span><span class="en" lang="en">Democratic lawmakers have <b>vowed</b> to look into Defence Secretary Pete Hegseth's handling of the war with Iran that began in February - …</span><br><span class="cite">— BBC News（2026/11/05） https://www.bbc.com/news/articles/cvglwg033027o</span></div>
+  <div class="conn"><span class="lbl">接續</span><b lang="en">vow＋to＋原形動詞／that 子句</b>：最常見 <i>vow to investigate</i>；名詞 <i>a vow</i>（誓言）。</div>
+</div>
+
+<h2>③ 今日重點文法</h2>
+<div class="grammar">
+  <div class="gtitle" lang="en">be due to ＋ 原形動詞</div>
+  <div>「預定要……、照計畫將會……」：表示已排定、預期會發生的事。</div>
+  <div class="formula" lang="en">主詞 ＋ be ＋ due to ＋ 原形動詞（＋時間）</div>
+  <div class="ex" style="margin-top:6px"><span class="lbl">本文</span><span class="en" lang="en">But now both Trump and Nvidia are facing bipartisan backlash from lawmakers, just as Huang <b>is due to testify</b> before Congress next week.</span><br><span class="cite">→ 但現在川普和 Nvidia 都面臨兩黨議員的反彈，而黃仁勳下週就要到國會作證。（BBC 記者）</span></div>
+  <table class="g">
+    <tr><th>用法</th><td>表示「預定、排定」，常見於行程、會議、出庭、發布等；語氣比 <i lang="en">will</i> 更正式。</td></tr>
+    <tr><th>前接</th><td><i lang="en">be</i> 動詞隨主詞與時態變化：<i lang="en">is／are／was due to</i>；<i lang="en">was due to</i> 常暗示「原本預定，但沒發生」。</td></tr>
+    <tr><th>易混淆用法</th><td><i lang="en">be due to＋原形動詞</i>（預定要做） vs. <i lang="en">due to＋名詞</i>（因為……），如 <i lang="en">due to the strike</i>。</td></tr>
+    <tr><th>後接</th><td>原形動詞，常再加時間：<i lang="en">due to testify next week</i>、<i lang="en">due to stage … in March</i>。</td></tr>
+    <tr><th>注意</th><td>接動詞時一定用原形；只講時間可用 <i lang="en">be due＋時間</i>（如報告、帳單的到期日）。</td></tr>
+  </table>
+  <div class="ex"><span class="lbl">例句</span><span class="en" lang="en">Norway is preparing to host the cross-country skiing World Cup next month, while Finland <b>is due to stage</b> the figure skating world championships in March.</span><br>
+  <span class="cite">— BBC Sport（2026/11/13） https://www.bbc.com/sport/articles/cm4gn9lvlgy2o</span></div>
+</div>
+
+<footer>Yang｜每日英文新聞助理 ・ 新聞內容摘要自 BBC News（著作權屬 BBC），僅供個人學習使用</footer>
+</body></html>
